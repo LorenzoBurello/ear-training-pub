@@ -1,0 +1,3 @@
+Campioni del Salamander Grand Piano V3 di Alexander Holm, licenza CC-BY 3.0
+(https://creativecommons.org/licenses/by/3.0/), nella versione MP3 distribuita da Tone.js
+(https://github.com/Tonejs/audio).
